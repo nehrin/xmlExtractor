@@ -28,7 +28,7 @@ Please create a reservation at the <vendor>Viaduct Steakhouse</vendor> our
 Regards,
 Ivan
 
-Created a REST API that is parsing the xml to create expense and reservation for the user.
+Created a REST API that is parsing the xml to create expense and reservation for the user. Please make sure you have the Rest API running first before making any calls.
 
 <b>Usage:</b>
 
