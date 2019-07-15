@@ -27,14 +27,15 @@ Ivan
 
 Created a REST API that is parsing the xml to create expense and reservation for the user.
 
-Usage:
+<b>Usage:</b>
 
 POST http://localhost:56458/api/xmlExtractor 
 
 [body]:
 "Hi Yvaine,\r\nPlease create an expense claim for the below.  Relevant details are marked up as requested…\r\n<expense><cost_centre>DEV002</cost_centre> <total>1024.01</total><payment_method>personal card</payment_method> </expense>\r\n From: Ivan Castle  Sent: Friday, 16 February 2018 10:32 AM To: Antoine Lloyd <Antoine.Lloyd@example.com> Subject: test \r\nHi Antoine,\r\nPlease create a reservation at the <vendor>Viaduct Steakhouse</vendor> our <description>development team’s project end celebration dinner</description> on <date>Tuesday 27 April 2017</date>.  We expect to arrive around 7.15pm.  Approximately 12 people but I’ll confirm exact numbers closer to the day.\r\nRegards, Ivan"
 
-To create expense/reservation seperately:
+<b>To create expense/reservation seperately:</b>
+
 POST http://localhost:56458/api/expense
 
 [body]:
@@ -44,7 +45,7 @@ POST http://localhost:56458/api/expense
     "paymentMethod":"company card"
 }
 
-To create reservation seperately:
+<b>To create reservation seperately:</b>
 
 POST http://localhost:56458/api/reservation
 
@@ -55,7 +56,12 @@ POST http://localhost:56458/api/reservation
     "reservationTime": "2017-04-27T00:00:00"
 }
 
+<b>GET request to see reservation or expense</b>
+
 GET http://localhost:56458/api/reservation
+
 GET http://localhost:56458/api/reservation/{id}
+
 GET http://localhost:56458/api/expense
+
 GET http://localhost:56458/api/expense/{id}
