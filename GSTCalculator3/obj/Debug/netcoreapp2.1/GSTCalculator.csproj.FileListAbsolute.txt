@@ -1,0 +1,14 @@
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\bin\Debug\netcoreapp2.1\GSTCalculator.deps.json
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\bin\Debug\netcoreapp2.1\GSTCalculator.runtimeconfig.json
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\bin\Debug\netcoreapp2.1\GSTCalculator.runtimeconfig.dev.json
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\bin\Debug\netcoreapp2.1\GSTCalculator.dll
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\bin\Debug\netcoreapp2.1\GSTCalculator.pdb
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\obj\Debug\netcoreapp2.1\GSTCalculator.csprojAssemblyReference.cache
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\obj\Debug\netcoreapp2.1\GSTCalculator.csproj.CoreCompileInputs.cache
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\obj\Debug\netcoreapp2.1\GSTCalculator.RazorAssemblyInfo.cache
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\obj\Debug\netcoreapp2.1\GSTCalculator.RazorAssemblyInfo.cs
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\obj\Debug\netcoreapp2.1\GSTCalculator.AssemblyInfoInputs.cache
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\obj\Debug\netcoreapp2.1\GSTCalculator.AssemblyInfo.cs
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\obj\Debug\netcoreapp2.1\GSTCalculator.RazorTargetAssemblyInfo.cache
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\obj\Debug\netcoreapp2.1\GSTCalculator.dll
+C:\Users\nehri\source\repos\GSTCalculator3\GSTCalculator3\obj\Debug\netcoreapp2.1\GSTCalculator.pdb
