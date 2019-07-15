@@ -1,8 +1,11 @@
 # xmlExtractor
 
 Serko Expense has a new requirement to import data from text received via email.
+
 The data will either be:
+
 • Embedded as ‘islands’ of XML-like content
+
 • Marked up using XML style opening and closing tags
 
 The following text illustrates this:
